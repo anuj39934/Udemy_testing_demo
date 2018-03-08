@@ -1,0 +1,13 @@
+import React, {Component} from 'react';
+
+export default CommentList extends Component {
+	constructor(props){
+		super(props);
+	};
+	render(){
+		return (
+			<div className = 'comment_list'>
+			</div>
+		);
+	};
+};
